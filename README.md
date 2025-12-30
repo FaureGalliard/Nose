@@ -23,7 +23,22 @@
 - :nerd_face: Always `learning new things` and improving my technical skills.
 - :thinking: Open to `internships`, `research`, and future `job opportunities`.
 <br>
----
+
+
+## 🌍 Idiomas
+- 🇬🇧 English: C1
+- 🇫🇷 French: B2
+- 🇰🇷 Korean: A2
+- 🇪🇸 Spanish: native
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelcrispin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelcrispinvaldivia@gmail.com)
+
+## 📫 Contact
+- GitHub: [FaureGalliard](https://github.com/FaureGalliard)
+- LinkedIn: [angelcrispin](https://www.linkedin.com/in/angelcrispin/)
+- Email: angelcrispinvaldivia@gmail.com
+
 # 💻 Tech Stack:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
@@ -55,19 +70,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 
-## 📫 Contact
-- GitHub: [FaureGalliard](https://github.com/FaureGalliard)
-- LinkedIn: [angelcrispin](https://www.linkedin.com/in/angelcrispin/)
-- Email: angelcrispinvaldivia@gmail.com
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelcrispin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelcrispinvaldivia@gmail.com)
-
-## 🌍 Idiomas
-- 🇬🇧 English: C1
-- 🇫🇷 French: B2
-- 🇰🇷 Korean: A2
-- 🇪🇸 Spanish: native
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fauregalliard&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -79,4 +81,3 @@
 
 ###
 ⭐ *If something here is useful to you or inspires you, feel free to explore my repositories.*
-
