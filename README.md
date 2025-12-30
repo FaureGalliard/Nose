@@ -1,4 +1,4 @@
-# Hi👋
+# Hi 👋
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
@@ -73,7 +73,7 @@
 [![](https://visitcount.itsvg.in/api?id=fauregalliard&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
 
-![snake gif](https://github.com/FaureGalliard/MainPage/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/FaureGalliard/FaureGalliard/blob/output/github-snake-dark.svg)
 
 
 
