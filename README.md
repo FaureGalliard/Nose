@@ -14,13 +14,11 @@
 
 <br><br>
 - :school: I am a `Junior` student of **Software Engineering** and **Statistics** at **UPC** & **UNMSM** (Peru).
-- :trophy: Participant in competitive programming contests such as `IEEE ICPC` and other university-level competitions.
-- :technologist: I love using **software and engineering** as solutions for real-world `problems`.
+- :trophy: Participant in competitive programming contests such as `IEEE` `ICPC` and other university-level competitions.
+- :technologist: I love using software and engineering as solutions for real-world problems.
 - :computer: Competitive programmer on `Codeforces`, `AtCoder`, `LeetCode`, `CodeChef`, and other platforms.
-- :student: Currently learning `Computer Science`, `Software Engineering`, and `Applied Statistics`.
-- :nerd_face: Always `learning new things` and improving my technical skills.
+- :nerd_face: Always learning new things and improving my technical skills.
 - :thinking: Open to `internships`, `research`, and future `job opportunities`.
-- :boom: Building projects under **Cobalto Engineering Projects** — focused on software, hardware, and applied technology.
 <br>
 
 Estudiante de **Ingeniería de Software (UPC)** y **Estadística (UNMSM)**  
