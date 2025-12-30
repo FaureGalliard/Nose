@@ -73,8 +73,7 @@
 [![](https://visitcount.itsvg.in/api?id=fauregalliard&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
 
-![snake gif](https://github.com/FaureGalliard/FaureGalliard/blob/output/github-snake-dark.svg)
-
+![snake gif](https://raw.githubusercontent.com/FaureGalliard/FaureGalliard/output/github-snake-dark.svg)
 
 
 ###
