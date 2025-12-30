@@ -51,10 +51,9 @@ Trabajo constantemente en proyectos propios, documentación técnica y aprendiza
 [![](https://visitcount.itsvg.in/api?id=fauregalliard&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fauregalliard/fauregalliard/output/snake.svg" alt="Snake animation" />
 
 ###
 ⭐ *Si algo de aquí te sirve o te inspira, siéntete libre de explorar mis repositorios.*
+
 
