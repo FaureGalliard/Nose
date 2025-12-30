@@ -11,13 +11,6 @@ Soy un desarrollador e ingeniero en formación con fuerte enfoque práctico. Me 
 
 Trabajo constantemente en proyectos propios, documentación técnica y aprendizaje.
 
-## 📊 Intereses técnicos
-- Ingeniería de software y sistemas
-- Mecatrónica, electrónica y robótica
-- Estadística aplicada y análisis de datos
-- Finanzas, mercados y trading
-- Open Source y documentación técnica
-
 ## 🌍 Idiomas
 - 🇬🇧 Inglés: C1
 - 🇫🇷 Francés: B2
