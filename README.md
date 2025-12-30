@@ -11,7 +11,6 @@
 # About Me: 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=fauregalliard&label=Profile%20views&color=333B45&style=flat" alt="fauregalliard" /> </p>
-
 <br><br>
 - :school: I am a `Junior` student of **Software Engineering** and **Statistics** at **UPC** & **UNMSM** (Peru).
 - :trophy: Participant in competitive programming contests such as `IEEE` `ICPC` and other university-level competitions.
